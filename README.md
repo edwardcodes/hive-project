@@ -49,13 +49,10 @@ The dataset contains the following annotated activities with the corresponding c
 5: stairs (descending)	
 6: standing	
 7: sitting	
-
-
-**Dataset Link:** http://archive.ics.uci.edu/dataset/780/har70
 8: lying
 
 **Has Missing Values?**
 
 No
 
-
+**Dataset Link:** http://archive.ics.uci.edu/dataset/780/har70

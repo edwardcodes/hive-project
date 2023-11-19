@@ -1,3 +1,6 @@
+## Dataset Description
+
+
 The Human Activity Recognition 70+ (HAR70+) dataset is a professionally-annotated dataset containing 18 fit-to-frail older-adult subjects (70-95 years old) wearing two 3-axial accelerometers for around 40 minutes during a semi-structured free-living protocol. The sensors were attached to the right thigh and lower back.
 
 **Dataset Characteristics**
@@ -46,6 +49,9 @@ The dataset contains the following annotated activities with the corresponding c
 5: stairs (descending)	
 6: standing	
 7: sitting	
+
+
+**Dataset Link:** http://archive.ics.uci.edu/dataset/780/har70
 8: lying
 
 **Has Missing Values?**
